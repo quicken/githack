@@ -1,2 +1,9 @@
 Hello World, crazy.
+
+If you have nested functions and classes, it’s hard to find the matching brackets and parentheses. 
+
+Sometimes the start of a function or class is not on your screen, and it’s hard to get a quick visual overview.
+
+Here is some german
+
 This is some extra stuff from master.
